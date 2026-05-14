@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Yassine Achouak 👋</h1>
-<h3 align="center">Computer Science Graduate · AI & ML Enthusiast · Lifelong Learner</h3>
+<h3 align="center">M.Eng. Student in Computer Technology · AI & ML Enthusiast · Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+Deep+Learning;Natural+Language+Processing;Computer+Vision+%26+IoT;Ethics+in+Artificial+Intelligence" alt="Typing SVG" />
@@ -7,17 +7,18 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DAPHOENIX2000&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/DAPHOENIX2000?label=Followers&style=social" alt="followers" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm **Yassine Achouak**, a Computer Science graduate from **Dalian Polytechnic University** (2020–2024), based in **Shenzhen, China**. My academic path built a strong foundation in algorithms, programming and systems analysis, and ignited a passion for solving complex problems through technology and data.
+I'm **Yassine Achouak**, currently pursuing a **Master of Engineering in Computer Technology** at **Harbin Institute of Technology, Shenzhen (HITSZ)**. I hold a Bachelor's degree in Computer Science & Technology from **Dalian Polytechnic University** (2020–2024). I'm based in **Shenzhen, China**, and I'm passionate about solving complex problems through technology, data, and artificial intelligence.
 
-- 🔭 Currently exploring **Machine Learning, NLP, Computer Vision, IoT and Ethics in AI**
+- 🎓 Currently a **Master's student** at HIT Shenzhen — Computer Technology
+- 🔭 Exploring **Machine Learning, NLP, Computer Vision, IoT and Ethics in AI**
 - 🌱 Continuously learning new tools and frameworks to grow as a researcher and engineer
-- 🎯 Seeking a **Master's program** to deepen my research expertise
 - 🤝 Open to collaboration on AI / data science / web development projects
 - 🎨 Side passion: **Graphic Design** (4+ years of professional experience)
 - ⚡ Fun fact: I'm a polyglot — Arabic (native), English & French (C1), Chinese (basic)
@@ -28,6 +29,7 @@ I'm **Yassine Achouak**, a Computer Science graduate from **Dalian Polytechnic U
 
 | Period | Degree | Institution |
 | :---: | :--- | :--- |
+| **2024 – Present** | M.Eng. in Computer Technology *(in progress)* | Harbin Institute of Technology, Shenzhen |
 | **2020 – 2024** | Bachelor of Computer Science & Technology | Dalian Polytechnic University |
 | **2015 – 2018** | Baccalaureate in Electricity | Alkhawarizmi High School |
 
